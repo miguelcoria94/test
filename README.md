@@ -1,4 +1,5 @@
 # TinyKr - URL Shortener Service
+![alt text](http://url/to/img.png)
 
 ![TinyKr Logo](https://i.ibb.co/VrN0VZ1/01.png)
 
