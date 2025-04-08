@@ -1,6 +1,6 @@
 # TinyKr - URL Shortener Service
 
-![TinyKr Logo](public/favicon.ico)
+![TinyKr Logo](https://i.ibb.co/VrN0VZ1/01.png)
 
 TinyKr is a full-featured URL shortening service built with the MERN stack. It allows users to create shortened links with custom aliases, track click analytics, and generate QR codes for their shortened URLs.
 
